@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,90% Line,Std. Dev.,Error %,Throughput,Received KB/sec,Avg. Bytes
+JDBC Request2,227,30630,10000,223050,73139,52710.68,88.11%,.4,352.14,1017118.2
+TOTAL,227,30630,10000,223050,73139,52710.68,88.11%,.4,352.14,1017118.2
