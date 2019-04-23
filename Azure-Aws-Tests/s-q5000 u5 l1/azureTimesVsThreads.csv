@@ -1,0 +1,6 @@
+Number of active threads,Average JDBC Request,JDBC Request
+1,,68579.0
+2,,66695.0
+3,64681.0,65004.0
+4,,64857.0
+5,,58270.0
